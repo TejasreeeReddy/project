@@ -1,0 +1,7 @@
+h2{
+    background-color: skyblue;
+}
+h2:hover{
+    color: white;
+    background:linear-gradient(skyblue,green,rgb(218, 201, 140));
+}
